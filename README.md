@@ -1,1 +1,1 @@
-Using FLV with alpha channel as VideoTexture.
+Using FLV video with alpha channel as VideoTexture.
